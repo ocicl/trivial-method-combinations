@@ -1,0 +1,10 @@
+* trivial-method-combinations
+
+Portability library for accessing method combination objects
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/trivial-method-combinations.git   |
+| commit  | 01c7607  |
+| systems | trivial-method-combinations |
+|---------+-------------------------------------------|
+
